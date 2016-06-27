@@ -1,0 +1,9 @@
+{
+  "name": "timee",
+  "version": "1.0.0",
+  "description": "time unix command extension with a fancy distribution table",
+  "main": "timee.js",
+  "bin" : { "timee" : "./timee.js" },
+  "author": "Tadeu Zagallo <tadeuzagallo@gmail.com>",
+  "license": "MIT"
+}
