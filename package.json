@@ -1,9 +1,13 @@
 {
   "name": "timee",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "time unix command extension with a fancy distribution table",
   "main": "timee.js",
   "bin" : { "timee" : "./timee.js" },
   "author": "Tadeu Zagallo <tadeuzagallo@gmail.com>",
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/tadeuzagallo/timee.git"
+  },
   "license": "MIT"
 }
